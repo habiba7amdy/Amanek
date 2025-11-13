@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://habiba7amdy.github.io/amanaki-demo",
+  "homepage": "https://habiba7amdy.github.io/Amanek",
 "scripts": {
   "dev": "vite",
   "build": "vite build",
