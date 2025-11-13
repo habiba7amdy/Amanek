@@ -4,13 +4,12 @@
   "version": "0.0.0",
   "type": "module",
   "homepage": "https://habiba7amdy.github.io/amanaki-demo",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview",
-    "lint": "eslint .",
-    "deploy": "gh-pages -d dist"
-  },
+"scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "preview": "vite preview",
+  "deploy": "gh-pages -d dist"
+},
   "dependencies": {
     "@tailwindcss/vite": "^4.1.17",
     "leaflet": "^1.9.4",
